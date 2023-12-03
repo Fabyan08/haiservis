@@ -44,14 +44,14 @@ https://templatemo.com/tm-584-pod-talk
       <div class="row">
         <div class="col-lg-6 col-12 mb-5 mb-lg-0">
           <div class="subscribe-form-wrap">
-            <h6>Subscribe. Every weekly.</h6>
+            <h6>Ikuti Kami.</h6>
 
             <form class="custom-form subscribe-form" action="#" method="get" role="form">
               <input type="email" name="subscribe-email" id="subscribe-email" pattern="[^ @]*@[^ @]*" class="form-control" placeholder="Email Address" required="" />
 
               <div class="col-lg-12 col-12">
                 <button type="submit" class="form-control" id="submit">
-                  Subscribe
+                  Ikuti
                 </button>
               </div>
             </form>
@@ -59,7 +59,7 @@ https://templatemo.com/tm-584-pod-talk
         </div>
 
         <div class="col-lg-3 col-md-6 col-12 mb-4 mb-md-0 mb-lg-0">
-          <h6 class="site-footer-title mb-3">Contact</h6>
+          <h6 class="site-footer-title mb-3">Lebih Lanjut</h6>
 
           <p class="mb-2">
             <strong class="d-inline me-2">Phone:</strong> 010-020-0340
@@ -109,38 +109,34 @@ https://templatemo.com/tm-584-pod-talk
       <div class="row align-items-center">
         <div class="col-lg-2 col-md-3 col-12">
           <a class="navbar-brand" href="index.html">
-            <img src="images/pod-talk-logo.png" class="logo-image img-fluid" alt="templatemo pod talk" />
+            <img src="images/logo.png" class="logo-image img-fluid" alt="templatemo pod talk" />
           </a>
         </div>
 
         <div class="col-lg-7 col-md-9 col-12">
           <ul class="site-footer-links">
             <li class="site-footer-link-item">
-              <a href="#" class="site-footer-link">Homepage</a>
+              <a href="?page=about" class="site-footer-link">Tentang Kami</a>
             </li>
 
             <li class="site-footer-link-item">
-              <a href="#" class="site-footer-link">Browse episodes</a>
+              <a href="?page=pesan" class="site-footer-link">Pesan</a>
             </li>
 
             <li class="site-footer-link-item">
-              <a href="#" class="site-footer-link">Help Center</a>
+              <a href="?page=pengaduan" class="site-footer-link">Pengaduan</a>
             </li>
 
             <li class="site-footer-link-item">
-              <a href="#" class="site-footer-link">Contact Us</a>
+              <a href="?page=login" class="site-footer-link">Login</a>
             </li>
           </ul>
         </div>
 
         <div class="col-lg-3 col-12">
           <p class="copyright-text mb-0">
-            Copyright © 2036 Talk Pod Company <br /><br />
-            Design:
-            <a rel="nofollow" href="https://templatemo.com/page/1" target="_parent">TemplateMo</a>
+            Copyright © 2023 Haiservis <br /><br />
           </p>
-          Distribution:
-          <a rel="nofollow" href="https://themewagon.com" target="_blank">ThemeWagon</a>
         </div>
       </div>
     </div>

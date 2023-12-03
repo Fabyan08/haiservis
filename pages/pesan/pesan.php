@@ -3,7 +3,7 @@
     <nav class="navbar navbar-expand-lg">
         <div class="container">
             <a class="navbar-brand me-lg-5 me-0" href="index.html">
-                <img src="images/pod-talk-logo.png" class="logo-image img-fluid" alt="templatemo pod talk">
+                <img src="images/logo.png" style="width: 150px;" class="logo-image img-fluid" alt="templatemo pod talk">
             </a>
 
             <form action="#" method="get" class="custom-form search-form flex-fill me-3" role="search">
@@ -30,7 +30,7 @@
 
                 <div class="col-lg-12 col-12 text-center">
 
-                    <h2 class="mb-0">Listing Page</h2>
+                    <h2 class="mb-0">Pesan Yuk!</h2>
                 </div>
 
             </div>
@@ -42,47 +42,52 @@
         <div class="container">
             <div class="row justify-content-center">
 
-                <div class="col-lg-12 col-12">
-                    <div class="section-title-wrap mb-5">
-                        <h4 class="section-title">Lastest episodes</h4>
+                <div class="d-flex items-center" style="gap: 100px;">
+                    <div class="">
+                        <div class="section-title-wrap mb-5">
+                            <h4 class="section-title">Pilih Jasa Kamu</h4>
+                        </div>
                     </div>
-                </div>
+                    <form action="#" method="get" class="custom-form search-form flex-fill me-3" role="search">
+                        <div class="input-group input-group-lg">
+                            <input name="search" type="search" class="form-control" id="search" placeholder="Jasa bangunan..." aria-label="Search">
 
+                            <button type="submit" class="form-control" id="submit">
+                                <i class="bi-search"></i>
+                            </button>
+                        </div>
+                    </form>
+
+                </div>
                 <div class="col-lg-6 col-12 mb-4 mb-lg-0">
                     <div class="custom-block d-flex">
                         <div class="">
                             <div class="custom-block-icon-wrap">
                                 <div class="section-overlay"></div>
                                 <a href="detail-page.html" class="custom-block-image-wrap">
-                                    <img src="images/podcast/11683425_4790593.jpg" class="custom-block-image img-fluid" alt="">
+                                    <img src="images/trending1.jpg" style="width: 120px;" alt="">
 
-                                    <a href="#" class="custom-block-icon">
-                                        <i class="bi-play-fill"></i>
-                                    </a>
+                                </a><a href="#" class="custom-block-icon">
+                                    <i class="bi-play-fill"></i>
                                 </a>
+
                             </div>
 
                             <div class="mt-2">
-                                <a href="#" class="btn custom-btn">
-                                    Subscribe
-                                </a>
+                                <a href="#" class="btn custom-btn"> Subscribe </a>
                             </div>
                         </div>
 
                         <div class="custom-block-info">
                             <div class="custom-block-top d-flex mb-1">
                                 <small class="me-4">
-                                    <i class="bi-clock-fill custom-icon"></i>
-                                    50 Minutes
-                                </small>
+                                    <i class="bi-star custom-icon"></i>
+                                    5 Stars </small>
 
-                                <small>Episode <span class="badge">15</span></small>
                             </div>
 
                             <h5 class="mb-2">
-                                <a href="detail-page.html">
-                                    Modern Vintage
-                                </a>
+                                <a href="detail-page.html"> Jasa Bangunan </a>
                             </h5>
 
                             <div class="profile-block d-flex">
@@ -95,25 +100,9 @@
                                 </p>
                             </div>
 
-                            <p class="mb-0">Lorem Ipsum dolor sit amet consectetur</p>
+                            <p class="mb-0">Sebuah Jasa Bangunan yang Siap Membantumu...</p>
 
-                            <div class="custom-block-bottom d-flex justify-content-between mt-3">
-                                <a href="#" class="bi-headphones me-1">
-                                    <span>120k</span>
-                                </a>
 
-                                <a href="#" class="bi-heart me-1">
-                                    <span>42.5k</span>
-                                </a>
-
-                                <a href="#" class="bi-chat me-1">
-                                    <span>11k</span>
-                                </a>
-
-                                <a href="#" class="bi-download">
-                                    <span>50k</span>
-                                </a>
-                            </div>
                         </div>
 
                         <div class="d-flex flex-column ms-auto">
@@ -127,71 +116,50 @@
                         </div>
                     </div>
                 </div>
-
-                <div class="col-lg-6 col-12">
+                <div class="col-lg-6 col-12 mb-4 mb-lg-0">
                     <div class="custom-block d-flex">
                         <div class="">
                             <div class="custom-block-icon-wrap">
                                 <div class="section-overlay"></div>
                                 <a href="detail-page.html" class="custom-block-image-wrap">
-                                    <img src="images/podcast/12577967_02.jpg" class="custom-block-image img-fluid" alt="">
+                                    <img src="images/trending1.jpg" style="width: 120px;" alt="">
 
-                                    <a href="#" class="custom-block-icon">
-                                        <i class="bi-play-fill"></i>
-                                    </a>
+                                </a><a href="#" class="custom-block-icon">
+                                    <i class="bi-play-fill"></i>
                                 </a>
+
                             </div>
 
                             <div class="mt-2">
-                                <a href="#" class="btn custom-btn">
-                                    Subscribe
-                                </a>
+                                <a href="#" class="btn custom-btn"> Subscribe </a>
                             </div>
                         </div>
 
                         <div class="custom-block-info">
                             <div class="custom-block-top d-flex mb-1">
                                 <small class="me-4">
-                                    <i class="bi-clock-fill custom-icon"></i>
-                                    15 Minutes
-                                </small>
+                                    <i class="bi-star custom-icon"></i>
+                                    5 Stars </small>
 
-                                <small>Episode <span class="badge">45</span></small>
                             </div>
 
                             <h5 class="mb-2">
-                                <a href="detail-page.html">
-                                    Daily Talk
-                                </a>
+                                <a href="detail-page.html"> Jasa Bangunan </a>
                             </h5>
 
                             <div class="profile-block d-flex">
-                                <img src="images/profile/handsome-asian-man-listening-music-through-headphones.jpg" class="profile-block-image img-fluid" alt="">
+                                <img src="images/profile/woman-posing-black-dress-medium-shot.jpg" class="profile-block-image img-fluid" alt="">
 
-                                <p>William
-                                    <strong>Vlogger</strong>
+                                <p>
+                                    Elsa
+                                    <img src="images/verified.png" class="verified-image img-fluid" alt="">
+                                    <strong>Influencer</strong>
                                 </p>
                             </div>
 
-                            <p class="mb-0">Lorem Ipsum dolor sit amet consectetur</p>
+                            <p class="mb-0">Sebuah Jasa Bangunan yang Siap Membantumu...</p>
 
-                            <div class="custom-block-bottom d-flex justify-content-between mt-3">
-                                <a href="#" class="bi-headphones me-1">
-                                    <span>140k</span>
-                                </a>
 
-                                <a href="#" class="bi-heart me-1">
-                                    <span>22.4k</span>
-                                </a>
-
-                                <a href="#" class="bi-chat me-1">
-                                    <span>16k</span>
-                                </a>
-
-                                <a href="#" class="bi-download">
-                                    <span>62k</span>
-                                </a>
-                            </div>
                         </div>
 
                         <div class="d-flex flex-column ms-auto">
@@ -205,31 +173,120 @@
                         </div>
                     </div>
                 </div>
+                <div class="col-lg-6 col-12 mb-4 mb-lg-0">
+                    <div class="custom-block d-flex">
+                        <div class="">
+                            <div class="custom-block-icon-wrap">
+                                <div class="section-overlay"></div>
+                                <a href="detail-page.html" class="custom-block-image-wrap">
+                                    <img src="images/trending1.jpg" style="width: 120px;" alt="">
 
-                <div class="col-lg-4 col-12 mx-auto">
-                    <nav aria-label="Page navigation example">
-                        <ul class="pagination pagination-lg justify-content-center mt-5">
-                            <li class="page-item">
-                                <a class="page-link" href="#" aria-label="Previous">
-                                    <span aria-hidden="true">&laquo;</span>
+                                </a><a href="#" class="custom-block-icon">
+                                    <i class="bi-play-fill"></i>
                                 </a>
-                            </li>
 
-                            <li class="page-item active"><a class="page-link" href="#">1</a></li>
+                            </div>
 
-                            <li class="page-item"><a class="page-link" href="#">2</a></li>
+                            <div class="mt-2">
+                                <a href="#" class="btn custom-btn"> Subscribe </a>
+                            </div>
+                        </div>
 
-                            <li class="page-item"><a class="page-link" href="#">3</a></li>
+                        <div class="custom-block-info">
+                            <div class="custom-block-top d-flex mb-1">
+                                <small class="me-4">
+                                    <i class="bi-star custom-icon"></i>
+                                    5 Stars </small>
 
-                            <li class="page-item">
-                                <a class="page-link" href="#" aria-label="Next">
-                                    <span aria-hidden="true">&raquo;</span>
-                                </a>
-                            </li>
-                        </ul>
-                    </nav>
+                            </div>
+
+                            <h5 class="mb-2">
+                                <a href="detail-page.html"> Jasa Bangunan </a>
+                            </h5>
+
+                            <div class="profile-block d-flex">
+                                <img src="images/profile/woman-posing-black-dress-medium-shot.jpg" class="profile-block-image img-fluid" alt="">
+
+                                <p>
+                                    Elsa
+                                    <img src="images/verified.png" class="verified-image img-fluid" alt="">
+                                    <strong>Influencer</strong>
+                                </p>
+                            </div>
+
+                            <p class="mb-0">Sebuah Jasa Bangunan yang Siap Membantumu...</p>
+
+
+                        </div>
+
+                        <div class="d-flex flex-column ms-auto">
+                            <a href="#" class="badge ms-auto">
+                                <i class="bi-heart"></i>
+                            </a>
+
+                            <a href="#" class="badge ms-auto">
+                                <i class="bi-bookmark"></i>
+                            </a>
+                        </div>
+                    </div>
                 </div>
+                <div class="col-lg-6 col-12 mb-4 mb-lg-0">
+                    <div class="custom-block d-flex">
+                        <div class="">
+                            <div class="custom-block-icon-wrap">
+                                <div class="section-overlay"></div>
+                                <a href="detail-page.html" class="custom-block-image-wrap">
+                                    <img src="images/trending1.jpg" style="width: 120px;" alt="">
 
+                                </a><a href="#" class="custom-block-icon">
+                                    <i class="bi-play-fill"></i>
+                                </a>
+
+                            </div>
+
+                            <div class="mt-2">
+                                <a href="#" class="btn custom-btn"> Subscribe </a>
+                            </div>
+                        </div>
+
+                        <div class="custom-block-info">
+                            <div class="custom-block-top d-flex mb-1">
+                                <small class="me-4">
+                                    <i class="bi-star custom-icon"></i>
+                                    5 Stars </small>
+
+                            </div>
+
+                            <h5 class="mb-2">
+                                <a href="detail-page.html"> Jasa Bangunan </a>
+                            </h5>
+
+                            <div class="profile-block d-flex">
+                                <img src="images/profile/woman-posing-black-dress-medium-shot.jpg" class="profile-block-image img-fluid" alt="">
+
+                                <p>
+                                    Elsa
+                                    <img src="images/verified.png" class="verified-image img-fluid" alt="">
+                                    <strong>Influencer</strong>
+                                </p>
+                            </div>
+
+                            <p class="mb-0">Sebuah Jasa Bangunan yang Siap Membantumu...</p>
+
+
+                        </div>
+
+                        <div class="d-flex flex-column ms-auto">
+                            <a href="#" class="badge ms-auto">
+                                <i class="bi-heart"></i>
+                            </a>
+
+                            <a href="#" class="badge ms-auto">
+                                <i class="bi-bookmark"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </section>

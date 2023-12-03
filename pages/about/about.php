@@ -3,7 +3,7 @@
     <nav class="navbar navbar-expand-lg">
         <div class="container">
             <a class="navbar-brand me-lg-5 me-0" href="index.html">
-                <img src="images/pod-talk-logo.png" class="logo-image img-fluid" alt="templatemo pod talk">
+                <img src="images/logo.png" style="width: 150px;" class="logo-image img-fluid" alt="templatemo pod talk">
             </a>
 
             <form action="#" method="get" class="custom-form search-form flex-fill me-3" role="search">
@@ -32,7 +32,7 @@
 
                 <div class="col-lg-12 col-12 text-center">
 
-                    <h2 class="mb-0">About Pod</h2>
+                    <h2 class="mb-0">Tentang Haiservis</h2>
                 </div>
 
             </div>
@@ -50,19 +50,17 @@
                             <h4 class="section-title">Cerita Kami</h4>
                         </div>
 
-                        <p>HaiServis datang dari kota Yogyakarta, berasal dari pikiran 3 orang anak muda yang bermimpi menjadikan urusan kehidupan sehari-hari lebih mudah dengan jasa .</p>
+                        <p>HaiServis datang dari kota Yogyakarta, berasal dari pikiran 3 orang anak muda yang bermimpi menjadikan urusan kehidupan sehari-hari lebih mudah dengan jasa servis yang pasti terpercaya.</p>
 
-                        <p>You are not allowed to redistribute the downloadable template ZIP file on any other
-                            website without a permission. Please contact TemplateMo website for further information.
-                            Thank you.</p>
+                        <p>Di sini, kamu bisa menikmati berbagai layanan jasa servis mulai dari jasa bangunan, mekanik, hingga perbaikan perabotan rumah tangga, sampai jasa percetakan, dan perhiasan yang kamu butuhkan!</p>
 
-                        <img src="images/medium-shot-young-people-recording-podcast.jpg" class="about-image mt-5 img-fluid" alt="">
+                        <img src="images/about.png" class="about-image mt-5 img-fluid" alt="">
                     </div>
                 </div>
 
                 <div class="col-lg-12 col-12">
                     <div class="section-title-wrap mb-5">
-                        <h4 class="section-title">Meet podcaters</h4>
+                        <h4 class="section-title">Tim Kami</h4>
                     </div>
                 </div>
 

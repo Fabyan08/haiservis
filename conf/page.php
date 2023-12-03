@@ -10,15 +10,17 @@ if (isset($_GET['page'])) {
             break;
         case 'pesan':
             include 'pages/pesan/pesan.php';
+        case 'pengaduan':
+            include 'pages/pengaduan/pengaduan.php';
 
             // Auth
 
-        case 'login':
-            include 'auth/login.php';
-            break;
-        case 'register':
-            include 'auth/register.php';
-            break;
+            // case 'login':
+            //     include 'auth/login.php';
+            //     break;
+            // case 'register':
+            //     include 'auth/register.php';
+            //     break;
     }
 } else {
     include "pages/index.php";

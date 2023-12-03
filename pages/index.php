@@ -1,7 +1,7 @@
 <main>
     <nav class="navbar navbar-expand-lg">
         <div class="container">
-            <a class="navbar-brand me-lg-5 me-0" href="index.html">
+        <a class="navbar-brand me-lg-5 me-0" href="?page=index">
                 <img src="images/logo.png" class="logo-image img-fluid" style="width: 150px" alt="templatemo pod talk" />
             </a>
 

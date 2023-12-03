@@ -108,7 +108,7 @@ https://templatemo.com/tm-584-pod-talk
     <div class="container pt-5">
       <div class="row align-items-center">
         <div class="col-lg-2 col-md-3 col-12">
-          <a class="navbar-brand" href="index.html">
+          <a class="navbar-brand me-lg-5 me-0" href="?page=index">
             <img src="images/logo.png" class="logo-image img-fluid" alt="templatemo pod talk" />
           </a>
         </div>

@@ -40,7 +40,7 @@
     </header>
 
 
-    <section class="about-section section-padding" id="section_2">
+    <section class="about-section section-padding" style="margin-top: -60px;" id="section_2">
         <div class="container">
             <div class="row">
 
@@ -49,12 +49,12 @@
                         <div class="section-title-wrap mb-4">
                             <h4 class="section-title">Cerita Kami</h4>
                         </div>
+                        <div >
+                            <p style="font-weight: 400; color:black;">HaiServis datang dari kota Yogyakarta, berasal dari pikiran 3 orang anak muda yang bermimpi menjadikan urusan kehidupan sehari-hari lebih mudah dengan jasa servis yang pasti terpercaya.</p>
 
-                        <p>HaiServis datang dari kota Yogyakarta, berasal dari pikiran 3 orang anak muda yang bermimpi menjadikan urusan kehidupan sehari-hari lebih mudah dengan jasa servis yang pasti terpercaya.</p>
-
-                        <p>Di sini, kamu bisa menikmati berbagai layanan jasa servis mulai dari jasa bangunan, mekanik, hingga perbaikan perabotan rumah tangga, sampai jasa percetakan, dan perhiasan yang kamu butuhkan!</p>
-
-                        <img src="images/about.png" class="about-image mt-5 img-fluid" alt="">
+                            <p style="font-weight: 400; color:black;">Di sini, kamu bisa menikmati berbagai layanan jasa servis mulai dari jasa bangunan, mekanik, hingga perbaikan perabotan rumah tangga, sampai jasa percetakan, dan perhiasan yang kamu butuhkan!</p>
+                        </div>
+                        <img src="images/team/team.jpeg" class="about-image mt-5 img-fluid" alt="">
                     </div>
                 </div>
 

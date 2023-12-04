@@ -42,14 +42,14 @@
                             <img style="height: 400px; object-fit: cover" src="images/worker/1.png" style="height: 400px; object-fit: cover" class="owl-carousel-image img-fluid" alt="" />
 
                             <div class="owl-carousel-info">
-                                <h4 class="mb-2">
-                                    Candice
+                                <h6 class="mb-2">
+                                    Alice
                                     <img src="images/verified.png" class="owl-carousel-verified-image img-fluid" alt="" />
-                                </h4>
+                                </h6>
 
-                                <span class="badge">Storytelling</span>
+                                <span class="badge">CEO PT Bangun Jaya</span>
 
-                                <span class="badge">Business</span>
+                                <span class="badge">Konstruksi</span>
                             </div>
 
                             <div class="social-share">
@@ -74,9 +74,9 @@
                                     <img src="images/verified.png" class="owl-carousel-verified-image img-fluid" alt="" />
                                 </h4>
 
-                                <span class="badge">Creative</span>
+                                <span class="badge">CEO CV Kreatif Media</span>
 
-                                <span class="badge">Design</span>
+                                <span class="badge">Fotografi</span>
                             </div>
 
                             <div class="social-share">
@@ -100,11 +100,12 @@
                             <img style="height: 400px; object-fit: cover" src="images/worker/3.png" class="owl-carousel-image img-fluid" alt="" />
 
                             <div class="owl-carousel-info">
-                                <h4 class="mb-2">Taylor</h4>
+                                <h4 class="mb-2">Kevin <img src="images/verified.png" class="owl-carousel-verified-image img-fluid" alt="" />
+                                </h4>
 
-                                <span class="badge">Modeling</span>
+                                <span class="badge">Talent PT Jaya Makmur</span>
 
-                                <span class="badge">Fashion</span>
+                                <span class="badge">Bangunan</span>
                             </div>
 
                             <div class="social-share">
@@ -128,9 +129,11 @@
                             <img style="height: 400px; object-fit: cover" src="images/worker/4.png" class="owl-carousel-image img-fluid" alt="" />
 
                             <div class="owl-carousel-info">
-                                <h4 class="mb-2">Nick</h4>
+                                <h4 class="mb-2">Yori <img src="images/verified.png" class="owl-carousel-verified-image img-fluid" alt="" />
+                                </h4>
 
-                                <span class="badge">Acting</span>
+                                <span class="badge">Talent PT Bangun Keren</span>
+                                <span class="badge">Konstruksi</span>
                             </div>
 
                             <div class="social-share">
@@ -151,11 +154,12 @@
 
                             <div class="owl-carousel-info">
                                 <h4 class="mb-2">
-                                    Elsa
+                                    Melki
                                     <img src="images/verified.png" class="owl-carousel-verified-image img-fluid" alt="" />
                                 </h4>
 
-                                <span class="badge">Influencer</span>
+                                <span class="badge">People of PT Indonesia Jaya</span>
+                                <span class="badge">Segala Servis</span>
                             </div>
 
                             <div class="social-share">
@@ -175,9 +179,11 @@
                             <img style="height: 400px; object-fit: cover" src="images/worker/6.png" class="owl-carousel-image img-fluid" alt="" />
 
                             <div class="owl-carousel-info">
-                                <h4 class="mb-2">Chan</h4>
+                                <h4 class="mb-2">Ken <img src="images/verified.png" class="owl-carousel-verified-image img-fluid" alt="" />
+                                </h4>
 
-                                <span class="badge">Education</span>
+                                <span class="badge">Talent CV Belajar Bareng</span>
+                                <span class="badge">Guru Les</span>
                             </div>
 
                             <div class="social-share">
@@ -212,8 +218,8 @@
                         <div class="">
                             <div class="custom-block-icon-wrap">
                                 <div class="section-overlay"></div>
-                                <a href="detail-page.html" class="custom-block-image-wrap">
-                                    <img src="images/trending1.jpg" style="width: 120px;" alt="" />
+                                <a href="?page=detail" class="custom-block-image-wrap">
+                                    <img src="images/industry/mrd.png" style="width: 120px;" alt="" />
                                     <!-- 
                                     <a href="#" class="custom-bflock-icon">
                                         <i class="bi-play-fill"></i>
@@ -222,7 +228,7 @@
                             </div>
 
                             <div class="mt-2">
-                                <a href="#" class="btn custom-btn"> Subscribe </a>
+                                <a href="#" class="btn custom-btn"> Detail </a>
                             </div>
                         </div>
 
@@ -235,21 +241,21 @@
                             </div>
 
                             <h5>
-                                <a href="detail-page.html"> IKEA </a>
+                                <a href="?page=detail"> MRD Computer </a>
                             </h5>
-                            <h6 style="font-weight: 500; font-size:20px;">Jasa Bangunan</h6>
+                            <h6 style="font-weight: 500; font-size:15px;">Jalan Hayam Wuruk 12, Surabaya</h6>
 
                             <div class="profile-block d-flex">
                                 <img src="images/founder/1.png" class="profile-block-image img-fluid" alt="" />
 
-                                <p>
+                                <p style="font-weight: 400;">
                                     Ingvard
                                     <img src="images/verified.png" class="verified-image img-fluid" alt="" />
                                     <strong>Founder</strong>
                                 </p>
                             </div>
 
-                            <p class="mb-0">Sebuah Jasa Bangunan yang Siap Membantumu...</p>
+                            <p class="mb-0" style="color: black;font-weight: 500;">Jasa Untuk Install Perangkat Lunak dan Maintenance!</p>
 
 
                         </div>
@@ -270,14 +276,14 @@
                         <div class="">
                             <div class="custom-block-icon-wrap">
                                 <div class="section-overlay"></div>
-                                <a href="detail-page.html" class="custom-block-image-wrap">
+                                <a href="?page=detail" class="custom-block-image-wrap">
                                     <img src="images/industry/staycool.png" style="width: 120px; height: 95px;" alt="" />
 
                                 </a>
                             </div>
 
                             <div class="mt-2">
-                                <a href="#" class="btn custom-btn"> Subscribe </a>
+                                <a href="#" class="btn custom-btn"> Detail </a>
                             </div>
                         </div>
 
@@ -290,21 +296,21 @@
                             </div>
 
                             <h5>
-                                <a href="detail-page.html"> Staycool ID </a>
+                                <a href="?page=detail"> Staycool ID </a>
                             </h5>
-                            <h6 style="font-weight: 500; font-size:20px;">Jasa Servis AC</h6>
+                            <h6 style="font-weight: 500; font-size:15px;">Jalan Gajah Mada, Yogyakarta</h6>
 
                             <div class="profile-block d-flex">
                                 <img src="images/founder/2.png" class="profile-block-image img-fluid" alt="" />
 
-                                <p>
+                                <p style="font-weight: 400;">
                                     Yuda Prawirwa
                                     <img src="images/verified.png" class="verified-image img-fluid" alt="" />
                                     <strong>Founder</strong>
                                 </p>
                             </div>
 
-                            <p class="mb-0">Sebuah Jasa Bangunan yang Siap Membantumu...</p>
+                            <p class="mb-0" style="color: black;font-weight: 500;">Sebuah Jasa Pasang AC dan Pendingin di Rumahmu!</p>
 
 
                         </div>
@@ -337,7 +343,7 @@
 
                 <div class="col-lg-3 col-md-6 col-12 mb-4 mb-lg-0">
                     <div class="custom-block custom-block-overlay">
-                        <a href="detail-page.html" class="custom-block-image-wrap">
+                        <a href="?page=detail" class="custom-block-image-wrap">
                             <img src="images/topics/physician-consulting-his-patient-clinic.jpg" class="custom-block-image img-fluid" alt="" />
                         </a>
 
@@ -353,7 +359,7 @@
 
                 <div class="col-lg-3 col-md-6 col-12 mb-4 mb-lg-0">
                     <div class="custom-block custom-block-overlay">
-                        <a href="detail-page.html" class="custom-block-image-wrap">
+                        <a href="?page=detail" class="custom-block-image-wrap">
                             <img src="images/topics/repairman-doing-air-conditioner-service.jpg" class="custom-block-image img-fluid" alt="" />
                         </a>
 
@@ -369,7 +375,7 @@
 
                 <div class="col-lg-3 col-md-6 col-12 mb-4 mb-lg-0">
                     <div class="custom-block custom-block-overlay">
-                        <a href="detail-page.html" class="custom-block-image-wrap">
+                        <a href="?page=detail" class="custom-block-image-wrap">
                             <img src="images/topics/woman-practicing-yoga-mat-home.jpg" class="custom-block-image img-fluid" alt="" />
                         </a>
 
@@ -385,7 +391,7 @@
 
                 <div class="col-lg-3 col-md-6 col-12 mb-4 mb-lg-0">
                     <div class="custom-block custom-block-overlay">
-                        <a href="detail-page.html" class="custom-block-image-wrap">
+                        <a href="?page=detail" class="custom-block-image-wrap">
                             <img src="images/topics/delicious-meal-with-sambal-arrangement.jpg" class="custom-block-image img-fluid" alt="" />
                         </a>
 
@@ -415,19 +421,20 @@
                     <div class="col-lg-4 col-12 mb-4 mb-lg-0">
                         <div class="custom-block custom-block-full">
                             <div class="custom-block-image-wrap">
-                                <a href="detail-page.html">
-                                    <img src="images/industry/biznet.webp" style="width:100%;object-fit: contain;" class="custom-block-image img-fluid" alt="" />
+                                <a href="?page=detail">
+                                    <img src="images/industry/omahtukang.png" style="width:100%;object-fit: contain;" class="custom-block-image img-fluid" alt="" />
                                 </a>
                             </div>
 
                             <div class="custom-block-info">
                                 <h5 class="mb-2">
-                                    <a href="detail-page.html"> Jasa Pasang Wifi </a>
+                                    <a href="?page=detail"> Omah Tukang </a>
                                 </h5>
 
 
-                                <p class="mb-0">Kamu Kesulitan Benerin Motor? Serahkan dengan Kami!</p>
+                                <p class="mb-0" style="font-weight: 500;">Segala Keperluan Kamu untuk Bangun Rumah, Ada di Sini!!</p>
 
+                                <span style="margin-top: 14px;" class="badge rounded-pill text-bg-success">Konstruksi</span>
 
                             </div>
 
@@ -437,18 +444,19 @@
                     <div class="col-lg-4 col-12 mb-4 mb-lg-0">
                         <div class="custom-block custom-block-full">
                             <div class="custom-block-image-wrap">
-                                <a href="detail-page.html">
+                                <a href="?page=detail">
                                     <img src="images/industry/griffin.jpg" style="width:100%;object-fit: contain;" class="custom-block-image img-fluid" alt="" />
                                 </a>
                             </div>
 
                             <div class="custom-block-info">
                                 <h5 class="mb-2">
-                                    <a href="detail-page.html"> Jasa Pasang Wifi </a>
+                                    <a href="?page=detail">CV Griffin Teknik</a>
                                 </h5>
 
 
-                                <p class="mb-0">Kamu Kesulitan Benerin Motor? Serahkan dengan Kami!</p>
+                                <p class="mb-0" style="font-weight: 500;">AC Kamu Panas? Parah Banget, Ada di Sini Service Lengkapnya!</p>
+                                <span style="margin-top: 14px;" class="badge rounded-pill text-bg-success">Servis</span>
 
 
                             </div>
@@ -459,18 +467,19 @@
                     <div class="col-lg-4 col-12 mb-4 mb-lg-0">
                         <div class="custom-block custom-block-full">
                             <div class="custom-block-image-wrap">
-                                <a href="detail-page.html">
+                                <a href="?page=detail">
                                     <img src="images/industry/jogja.jpg" style="width:100%;object-fit: contain;" class="custom-block-image img-fluid" alt="" />
                                 </a>
                             </div>
 
                             <div class="custom-block-info">
                                 <h5 class="mb-2">
-                                    <a href="detail-page.html">Servis Kunci</a>
+                                    <a href="?page=detail">Tukang Jogja</a>
                                 </h5>
 
 
-                                <p class="mb-0">Kamu Kesulitan Benerin Motor? Serahkan dengan Kami!</p>
+                                <p class="mb-0" style="font-weight: 500;">Kamu Kesulitan Benerin Motor? Serahkan dengan Kami!</p>
+                                <span style="margin-top: 14px;" class="badge rounded-pill text-bg-success">Konstruksi</span>
 
 
                             </div>
@@ -481,19 +490,20 @@
                     <div class="col-lg-4 col-12 mb-4 mb-lg-0">
                         <div class="custom-block custom-block-full">
                             <div class="custom-block-image-wrap">
-                                <a href="detail-page.html">
+                                <a href="?page=detail">
                                     <img src="images/industry/biznet.webp" style="width:100%;object-fit: contain;" class="custom-block-image img-fluid" alt="" />
                                 </a>
                             </div>
 
                             <div class="custom-block-info">
                                 <h5 class="mb-2">
-                                    <a href="detail-page.html"> Jasa Pasang Wifi </a>
+                                    <a href="?page=detail">Biznet</a>
                                 </h5>
 
 
-                                <p class="mb-0">Kamu Kesulitan Benerin Motor? Serahkan dengan Kami!</p>
+                                <p class="mb-0" style="font-weight: 500;">Mau Pasang Wifi? Serahkan Pada Kami Ahlinya yang Pasti Kencang dan Aman</p>
 
+                                <span style="margin-top: 14px;" class="badge rounded-pill text-bg-success">Internet</span>
 
                             </div>
 
@@ -503,18 +513,19 @@
                     <div class="col-lg-4 col-12 mb-4 mb-lg-0">
                         <div class="custom-block custom-block-full">
                             <div class="custom-block-image-wrap">
-                                <a href="detail-page.html">
+                                <a href="?page=detail">
                                     <img src="images/industry/air.png" style="width:100%;object-fit: contain;" class="custom-block-image img-fluid" alt="" />
                                 </a>
                             </div>
 
                             <div class="custom-block-info">
                                 <h5 class="mb-2">
-                                    <a href="detail-page.html"> Jasa Pasang Wifi </a>
+                                    <a href="?page=detail"> Jasa Ahli Pompa </a>
                                 </h5>
 
 
-                                <p class="mb-0">Kamu Kesulitan Benerin Motor? Serahkan dengan Kami!</p>
+                                <p class="mb-0" style="font-weight: 500;">Pompa Air Biar Jadi Tanggung Jawab Kami! Kamu Hanya Perlu Duduk Manis Saja</p>
+                                <span style="margin-top: 14px;" class="badge rounded-pill text-bg-success">Air</span>
 
 
                             </div>
@@ -525,19 +536,20 @@
                     <div class="col-lg-4 col-12 mb-4 mb-lg-0">
                         <div class="custom-block custom-block-full">
                             <div class="custom-block-image-wrap">
-                                <a href="detail-page.html">
-                                    <img src="images/industry/biznet.webp" style="width:100%;object-fit: contain;" class="custom-block-image img-fluid" alt="" />
+                                <a href="?page=detail">
+                                    <img src="images/industry/pijat.png" style="width:100%;object-fit: contain;" class="custom-block-image img-fluid" alt="" />
                                 </a>
                             </div>
 
                             <div class="custom-block-info">
                                 <h5 class="mb-2">
-                                    <a href="detail-page.html"> Jasa Pasang Wifi </a>
+                                    <a href="?page=detail"> Jasa Pijat Jogja </a>
                                 </h5>
 
 
-                                <p class="mb-0">Kamu Kesulitan Benerin Motor? Serahkan dengan Kami!</p>
+                                <p class="mb-0" style="font-weight: 500;">Kamu Capek Habis Jalani Hari Seharian? Panggil Jasa Pijat Buat Kamu yang Ada di Jogja!</p>
 
+                                <span style="margin-top: 14px;" class="badge rounded-pill text-bg-success">Pijat</span>
 
                             </div>
 

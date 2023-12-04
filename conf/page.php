@@ -13,6 +13,10 @@ if (isset($_GET['page'])) {
             break;
         case 'pengaduan':
             include 'pages/pengaduan/pengaduan.php';
+            break;
+        case 'detail':
+            include 'pages/detail/detail.php';
+            break;
 
             // Auth
 

@@ -144,53 +144,47 @@
                             <div class="">
                                 <div class="custom-block-icon-wrap">
                                     <div class="section-overlay"></div>
-                                    <a href="detail-page.html" class="custom-block-image-wrap">
-                                        <img src="images/trending1.jpg" style="width: 120px;" alt="">
+                                    <a href="?page=detail" class="custom-block-image-wrap">
+                                        <img src="images/industry/omahtukang.png" style="width: 120px; height:100px; object-fit:contain" alt="">
 
-                                    </a><a href="#" class="custom-block-icon">
-                                        <i class="bi-play-fill"></i>
                                     </a>
+
 
                                 </div>
 
                                 <div class="mt-2">
-                                    <a href="#" class="btn custom-btn"> Subscribe </a>
+                                    <a href="?page=detail" class="btn custom-btn"> Detail </a>
                                 </div>
                             </div>
 
                             <div class="custom-block-info">
-                                <div class="custom-block-top d-flex mb-1">
-                                    <small class="me-4">
+                                <div class="custom-block-top d-flex mb-1 row">
+                                    <small class="me-4 col">
                                         <i class="bi-star custom-icon"></i>
                                         5 Stars </small>
+                                    <small class="me-4 col">
+                                        <i class="bi-map custom-icon"></i>
+                                        Jalan Hayam Wuruk 17, Surabaya </small>
 
                                 </div>
 
                                 <h5 class="mb-2">
-                                    <a href="detail-page.html"> Jasa Bangunan </a>
+                                    <a href="?page=detail"> Jasa Bangunan </a>
                                 </h5>
 
-                                <div class="profile-block d-flex">
-                                    <img src="images/profile/woman-posing-black-dress-medium-shot.jpg" class="profile-block-image img-fluid" alt="">
 
-                                    <p>
-                                        Elsa
-                                        <img src="images/verified.png" class="verified-image img-fluid" alt="">
-                                        <strong>Influencer</strong>
-                                    </p>
-                                </div>
 
-                                <p class="mb-0">Sebuah Jasa Bangunan yang Siap Membantumu...</p>
+                                <p class="mb-0" style="font-weight: 500;">Jasa Untuk Kamu yang Butuh Bantuan Bangunan Rumah</p>
 
 
                             </div>
 
                             <div class="d-flex flex-column ms-auto">
-                                <a href="#" class="badge ms-auto">
+                                <a href="#" class="badge text-bg-success ms-auto">
                                     <i class="bi-heart"></i>
                                 </a>
 
-                                <a href="#" class="badge ms-auto">
+                                <a href="#" class="badge text-bg-success ms-auto">
                                     <i class="bi-bookmark"></i>
                                 </a>
                             </div>
@@ -201,53 +195,46 @@
                             <div class="">
                                 <div class="custom-block-icon-wrap">
                                     <div class="section-overlay"></div>
-                                    <a href="detail-page.html" class="custom-block-image-wrap">
-                                        <img src="images/trending1.jpg" style="width: 120px;" alt="">
+                                    <a href="?page=detail" class="custom-block-image-wrap">
+                                        <img src="images/industry/air.png" style="width: 120px; height:100px; object-fit:contain" alt="">
 
-                                    </a><a href="#" class="custom-block-icon">
-                                        <i class="bi-play-fill"></i>
                                     </a>
 
                                 </div>
 
                                 <div class="mt-2">
-                                    <a href="#" class="btn custom-btn"> Subscribe </a>
+                                    <a href="?page=detail" class="btn custom-btn"> Detail </a>
                                 </div>
                             </div>
 
                             <div class="custom-block-info">
-                                <div class="custom-block-top d-flex mb-1">
-                                    <small class="me-4">
+                                <div class="custom-block-top d-flex mb-1 row">
+                                    <small class="me-4 col">
                                         <i class="bi-star custom-icon"></i>
                                         5 Stars </small>
+                                    <small class="me-4 col">
+                                        <i class="bi-map custom-icon"></i>
+                                        Jalan Gajah Mada 18, Gebang, Jogja </small>
 
                                 </div>
 
                                 <h5 class="mb-2">
-                                    <a href="detail-page.html"> Jasa Bangunan </a>
+                                    <a href="?page=detail"> Jasa Pompa Air </a>
                                 </h5>
 
-                                <div class="profile-block d-flex">
-                                    <img src="images/profile/woman-posing-black-dress-medium-shot.jpg" class="profile-block-image img-fluid" alt="">
 
-                                    <p>
-                                        Elsa
-                                        <img src="images/verified.png" class="verified-image img-fluid" alt="">
-                                        <strong>Influencer</strong>
-                                    </p>
-                                </div>
 
-                                <p class="mb-0">Sebuah Jasa Bangunan yang Siap Membantumu...</p>
+                                <p class="mb-0" style="font-weight: 500;">Jasa Untuk Bantuan Perbaikan Perairan hingga Ledeng</p>
 
 
                             </div>
 
                             <div class="d-flex flex-column ms-auto">
-                                <a href="#" class="badge ms-auto">
+                                <a href="#" class="badge text-bg-success ms-auto">
                                     <i class="bi-heart"></i>
                                 </a>
 
-                                <a href="#" class="badge ms-auto">
+                                <a href="#" class="badge text-bg-success ms-auto">
                                     <i class="bi-bookmark"></i>
                                 </a>
                             </div>
@@ -258,53 +245,46 @@
                             <div class="">
                                 <div class="custom-block-icon-wrap">
                                     <div class="section-overlay"></div>
-                                    <a href="detail-page.html" class="custom-block-image-wrap">
-                                        <img src="images/trending1.jpg" style="width: 120px;" alt="">
+                                    <a href="?page=detail" class="custom-block-image-wrap">
+                                        <img src="images/industry/griffin.jpg" style="width: 120px; height:100px; object-fit:contain" alt="">
 
-                                    </a><a href="#" class="custom-block-icon">
-                                        <i class="bi-play-fill"></i>
                                     </a>
 
                                 </div>
 
                                 <div class="mt-2">
-                                    <a href="#" class="btn custom-btn"> Subscribe </a>
+                                    <a href="?page=detail" class="btn custom-btn"> Detail </a>
                                 </div>
                             </div>
 
                             <div class="custom-block-info">
-                                <div class="custom-block-top d-flex mb-1">
-                                    <small class="me-4">
+                                <div class="custom-block-top d-flex mb-1 row">
+                                    <small class="me-4 col">
                                         <i class="bi-star custom-icon"></i>
                                         5 Stars </small>
+                                    <small class="me-4 col">
+                                        <i class="bi-map custom-icon"></i>
+                                        Jalan Anoman Obong 21, Jakarta</small>
 
                                 </div>
 
                                 <h5 class="mb-2">
-                                    <a href="detail-page.html"> Jasa Bangunan </a>
+                                    <a href="?page=detail"> Jasa Servis AC </a>
                                 </h5>
 
-                                <div class="profile-block d-flex">
-                                    <img src="images/profile/woman-posing-black-dress-medium-shot.jpg" class="profile-block-image img-fluid" alt="">
 
-                                    <p>
-                                        Elsa
-                                        <img src="images/verified.png" class="verified-image img-fluid" alt="">
-                                        <strong>Influencer</strong>
-                                    </p>
-                                </div>
 
-                                <p class="mb-0">Sebuah Jasa Bangunan yang Siap Membantumu...</p>
+                                <p class="mb-0" style="font-weight: 500;"> Jasa Untuk Bantuan Perbaikan AC dan Elektronik</p>
 
 
                             </div>
 
                             <div class="d-flex flex-column ms-auto">
-                                <a href="#" class="badge ms-auto">
+                                <a href="#" class="badge text-bg-success ms-auto">
                                     <i class="bi-heart"></i>
                                 </a>
 
-                                <a href="#" class="badge ms-auto">
+                                <a href="#" class="badge text-bg-success ms-auto">
                                     <i class="bi-bookmark"></i>
                                 </a>
                             </div>
@@ -315,53 +295,46 @@
                             <div class="">
                                 <div class="custom-block-icon-wrap">
                                     <div class="section-overlay"></div>
-                                    <a href="detail-page.html" class="custom-block-image-wrap">
-                                        <img src="images/trending1.jpg" style="width: 120px;" alt="">
+                                    <a href="?page=detail" class="custom-block-image-wrap">
+                                        <img src="images/industry/jogja.jpg" style="width: 120px; height:100px; object-fit:contain" alt="">
 
-                                    </a><a href="#" class="custom-block-icon">
-                                        <i class="bi-play-fill"></i>
                                     </a>
 
                                 </div>
 
                                 <div class="mt-2">
-                                    <a href="#" class="btn custom-btn"> Subscribe </a>
+                                    <a href="?page=detail" class="btn custom-btn"> Detail </a>
                                 </div>
                             </div>
 
                             <div class="custom-block-info">
-                                <div class="custom-block-top d-flex mb-1">
-                                    <small class="me-4">
+                                <div class="custom-block-top d-flex mb-1 row">
+                                    <small class="me-4 col">
                                         <i class="bi-star custom-icon"></i>
-                                        5 Stars </small>
+                                        4 Stars </small>
+                                    <small class="me-4 col">
+                                        <i class="bi-map custom-icon"></i>
+                                        Jalan Surat 21, Malang </small>
 
                                 </div>
 
                                 <h5 class="mb-2">
-                                    <a href="detail-page.html"> Jasa Bangunan </a>
+                                    <a href="?page=detail"> Jasa Perbaiki Kunci </a>
                                 </h5>
 
-                                <div class="profile-block d-flex">
-                                    <img src="images/profile/woman-posing-black-dress-medium-shot.jpg" class="profile-block-image img-fluid" alt="">
 
-                                    <p>
-                                        Elsa
-                                        <img src="images/verified.png" class="verified-image img-fluid" alt="">
-                                        <strong>Influencer</strong>
-                                    </p>
-                                </div>
 
-                                <p class="mb-0">Sebuah Jasa Bangunan yang Siap Membantumu...</p>
+                                <p class="mb-0" style="font-weight: 500;">Jasa Perbaikan Kunci dan Barang Sehari-hari</p>
 
 
                             </div>
 
                             <div class="d-flex flex-column ms-auto">
-                                <a href="#" class="badge ms-auto">
+                                <a href="#" class="badge text-bg-success ms-auto">
                                     <i class="bi-heart"></i>
                                 </a>
 
-                                <a href="#" class="badge ms-auto">
+                                <a href="#" class="badge text-bg-success ms-auto">
                                     <i class="bi-bookmark"></i>
                                 </a>
                             </div>
@@ -372,53 +345,46 @@
                             <div class="">
                                 <div class="custom-block-icon-wrap">
                                     <div class="section-overlay"></div>
-                                    <a href="detail-page.html" class="custom-block-image-wrap">
-                                        <img src="images/trending1.jpg" style="width: 120px;" alt="">
+                                    <a href="?page=detail" class="custom-block-image-wrap">
+                                        <img src="images/industry/mrd.png" style="width: 120px; height:100px; object-fit:contain" alt="">
 
-                                    </a><a href="#" class="custom-block-icon">
-                                        <i class="bi-play-fill"></i>
                                     </a>
 
                                 </div>
 
                                 <div class="mt-2">
-                                    <a href="#" class="btn custom-btn"> Subscribe </a>
+                                    <a href="?page=detail" class="btn custom-btn"> Detail </a>
                                 </div>
                             </div>
 
                             <div class="custom-block-info">
-                                <div class="custom-block-top d-flex mb-1">
-                                    <small class="me-4">
+                                <div class="custom-block-top d-flex mb-1 row">
+                                    <small class="me-4 col">
                                         <i class="bi-star custom-icon"></i>
                                         5 Stars </small>
+                                    <small class="me-4 col">
+                                        <i class="bi-map custom-icon"></i>
+                                        Jalan Kacapiring IV/18, Jember </small>
 
                                 </div>
 
                                 <h5 class="mb-2">
-                                    <a href="detail-page.html"> Jasa Bangunan </a>
+                                    <a href="?page=detail"> Jasa Servis Laptop </a>
                                 </h5>
 
-                                <div class="profile-block d-flex">
-                                    <img src="images/profile/woman-posing-black-dress-medium-shot.jpg" class="profile-block-image img-fluid" alt="">
 
-                                    <p>
-                                        Elsa
-                                        <img src="images/verified.png" class="verified-image img-fluid" alt="">
-                                        <strong>Influencer</strong>
-                                    </p>
-                                </div>
 
-                                <p class="mb-0">Sebuah Jasa Bangunan yang Siap Membantumu...</p>
+                                <p class="mb-0" style="font-weight: 500;">Jasa Untuk Perbaikan dan Maintenance Laptop/PC</p>
 
 
                             </div>
 
                             <div class="d-flex flex-column ms-auto">
-                                <a href="#" class="badge ms-auto">
+                                <a href="#" class="badge text-bg-success ms-auto">
                                     <i class="bi-heart"></i>
                                 </a>
 
-                                <a href="#" class="badge ms-auto">
+                                <a href="#" class="badge text-bg-success ms-auto">
                                     <i class="bi-bookmark"></i>
                                 </a>
                             </div>
@@ -429,53 +395,46 @@
                             <div class="">
                                 <div class="custom-block-icon-wrap">
                                     <div class="section-overlay"></div>
-                                    <a href="detail-page.html" class="custom-block-image-wrap">
-                                        <img src="images/trending1.jpg" style="width: 120px;" alt="">
+                                    <a href="?page=detail" class="custom-block-image-wrap">
+                                        <img src="images/industry/pijat.png" style="width: 120px; height:100px; object-fit:contain" alt="">
 
-                                    </a><a href="#" class="custom-block-icon">
-                                        <i class="bi-play-fill"></i>
                                     </a>
 
                                 </div>
 
                                 <div class="mt-2">
-                                    <a href="#" class="btn custom-btn"> Subscribe </a>
+                                    <a href="?page=detail" class="btn custom-btn"> Detail </a>
                                 </div>
                             </div>
 
                             <div class="custom-block-info">
-                                <div class="custom-block-top d-flex mb-1">
-                                    <small class="me-4">
+                                <div class="custom-block-top d-flex mb-1 row">
+                                    <small class="me-4 col">
                                         <i class="bi-star custom-icon"></i>
                                         5 Stars </small>
+                                    <small class="me-4 col">
+                                        <i class="bi-map custom-icon"></i>
+                                        Jalan Mayor 21, Yogyakarta </small>
 
                                 </div>
 
                                 <h5 class="mb-2">
-                                    <a href="detail-page.html"> Jasa Bangunan </a>
+                                    <a href="?page=detail"> Jasa Pijat </a>
                                 </h5>
 
-                                <div class="profile-block d-flex">
-                                    <img src="images/profile/woman-posing-black-dress-medium-shot.jpg" class="profile-block-image img-fluid" alt="">
 
-                                    <p>
-                                        Elsa
-                                        <img src="images/verified.png" class="verified-image img-fluid" alt="">
-                                        <strong>Influencer</strong>
-                                    </p>
-                                </div>
 
-                                <p class="mb-0">Sebuah Jasa Bangunan yang Siap Membantumu...</p>
+                                <p class="mb-0" style="font-weight: 500;">Jasa Pijat Area Yogyakarta Murah Meriah</p>
 
 
                             </div>
 
                             <div class="d-flex flex-column ms-auto">
-                                <a href="#" class="badge ms-auto">
+                                <a href="#" class="badge text-bg-success ms-auto">
                                     <i class="bi-heart"></i>
                                 </a>
 
-                                <a href="#" class="badge ms-auto">
+                                <a href="#" class="badge text-bg-success ms-auto">
                                     <i class="bi-bookmark"></i>
                                 </a>
                             </div>

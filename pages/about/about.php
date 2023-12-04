@@ -3,12 +3,12 @@
     <nav class="navbar navbar-expand-lg">
         <div class="container">
             <a class="navbar-brand me-lg-5 me-0" href="?page=index">
-                <img src="images/logo.png" style="width: 150px;" class="logo-image img-fluid" alt="templatemo pod talk">
+                <img src="images/logo.png" style="width: 120px;" class="logo-image img-fluid" alt="templatemo pod talk">
             </a>
 
             <form action="#" method="get" class="custom-form search-form flex-fill me-3" role="search">
                 <div class="input-group input-group-lg">
-                    <input name="search" type="search" class="form-control" id="search" placeholder="Search Podcast" aria-label="Search">
+                    <input name="search" type="search" class="form-control" id="search" placeholder="Cari..." aria-label="Search" />
 
                     <button type="submit" class="form-control" id="submit">
                         <i class="bi-search"></i>
@@ -64,127 +64,100 @@
                     </div>
                 </div>
 
-                <div class="col-lg-3 col-md-6 col-12 mb-4 mb-lg-0">
-                    <div class="team-thumb bg-white shadow-lg">
-                        <img src="images/profile/cute-smiling-woman-outdoor-portrait.jpg" class="about-image img-fluid" alt="">
+                <div class="container overflow-hidden">
+                    <div class="d-flex justify-content-center gx-5 row">
+                        <div class="col-lg-4 col-md-6 col-12 mb-4 mb-lg-0">
+                            <div class="team-thumb bg-white shadow-lg">
+                                <img src="images/team/1.jpeg" style="height: 400px; width: 100%; object-fit: cover;" class="about-image img-fluid" alt="">
 
-                        <div class="team-info">
-                            <h4 class="mb-2">
-                                Taylor
-                                <img src="images/verified.png" class="verified-image img-fluid" alt="">
-                            </h4>
+                                <div class="team-info">
+                                    <h4 class="mb-2">
+                                        Yudi Ariza
+                                        <img src="images/verified.png" class="verified-image img-fluid" alt="">
+                                    </h4>
 
-                            <span class="badge">Modeling</span>
+                                    <span class="badge">COO</span>
+                                </div>
 
-                            <span class="badge">Fashion</span>
+                                <div class="social-share">
+                                    <ul class="social-icon">
+                                        <li class="social-icon-item">
+                                            <a href="#" class="social-icon-link bi-twitter"></a>
+                                        </li>
+
+                                        <li class="social-icon-item">
+                                            <a href="#" class="social-icon-link bi-facebook"></a>
+                                        </li>
+
+                                        <li class="social-icon-item">
+                                            <a href="#" class="social-icon-link bi-pinterest"></a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
                         </div>
 
-                        <div class="social-share">
-                            <ul class="social-icon">
-                                <li class="social-icon-item">
-                                    <a href="#" class="social-icon-link bi-twitter"></a>
-                                </li>
+                        <div class="col-lg-4 col-md-6 col-12 mb-4 mb-lg-0">
+                            <div class="team-thumb bg-white shadow-lg">
+                                <img src="images/team/2.jpeg" style="height: 400px; width: 100%; object-fit: cover;" class="about-image img-fluid" alt="">
 
-                                <li class="social-icon-item">
-                                    <a href="#" class="social-icon-link bi-facebook"></a>
-                                </li>
+                                <div class="team-info">
+                                    <h4 class="mb-2">
+                                        Firdausa
+                                        <img src="images/verified.png" class="verified-image img-fluid" alt="">
+                                    </h4>
 
-                                <li class="social-icon-item">
-                                    <a href="#" class="social-icon-link bi-pinterest"></a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
+                                    <span class="badge">CEO</span>
 
-                <div class="col-lg-3 col-md-6 col-12 mb-4 mb-lg-0">
-                    <div class="team-thumb bg-white shadow-lg">
-                        <img src="images/profile/handsome-asian-man-listening-music-through-headphones.jpg" class="about-image img-fluid" alt="">
+                                </div>
 
-                        <div class="team-info">
-                            <h4 class="mb-2">
-                                William
-                                <img src="images/verified.png" class="verified-image img-fluid" alt="">
-                            </h4>
+                                <div class="social-share">
+                                    <ul class="social-icon">
+                                        <li class="social-icon-item">
+                                            <a href="#" class="social-icon-link bi-twitter"></a>
+                                        </li>
 
-                            <span class="badge">Creative</span>
+                                        <li class="social-icon-item">
+                                            <a href="#" class="social-icon-link bi-facebook"></a>
+                                        </li>
 
-                            <span class="badge">Design</span>
-                        </div>
-
-                        <div class="social-share">
-                            <ul class="social-icon">
-                                <li class="social-icon-item">
-                                    <a href="#" class="social-icon-link bi-twitter"></a>
-                                </li>
-
-                                <li class="social-icon-item">
-                                    <a href="#" class="social-icon-link bi-facebook"></a>
-                                </li>
-
-                                <li class="social-icon-item">
-                                    <a href="#" class="social-icon-link bi-pinterest"></a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-3 col-md-6 col-12 mb-4 mb-lg-0 mb-md-0">
-                    <div class="team-thumb bg-white shadow-lg">
-                        <img src="images/profile/smart-attractive-asian-glasses-male-standing-smile-with-freshness-joyful-casual-blue-shirt-portrait-white-background.jpg" class="about-image img-fluid" alt="">
-
-                        <div class="team-info">
-                            <h4 class="mb-2">
-                                Chan
-                                <img src="images/verified.png" class="verified-image img-fluid" alt="">
-                            </h4>
-
-                            <span class="badge">Education</span>
+                                        <li class="social-icon-item">
+                                            <a href="#" class="social-icon-link bi-pinterest"></a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
                         </div>
 
-                        <div class="social-share">
-                            <ul class="social-icon">
-                                <li class="social-icon-item">
-                                    <a href="#" class="social-icon-link bi-linkedin"></a>
-                                </li>
+                        <div class="col-lg-4 col-md-6 col-12 mb-4 mb-lg-0 mb-md-0">
+                            <div class="team-thumb bg-white shadow-lg">
+                                <img src="images/team/3.jpg" style="height: 400px; width: 100%; object-fit: cover;" class="about-image img-fluid" alt="">
 
-                                <li class="social-icon-item">
-                                    <a href="#" class="social-icon-link bi-whatsapp"></a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
+                                <div class="team-info">
+                                    <h4 class="mb-2">
+                                        Fabyan Yastika
+                                        <img src="images/verified.png" class="verified-image img-fluid" alt="">
+                                    </h4>
 
-                <div class="col-lg-3 col-md-6 col-12">
-                    <div class="team-thumb bg-white shadow-lg">
-                        <img src="images/profile/smiling-business-woman-with-folded-hands-against-white-wall-toothy-smile-crossed-arms.jpg" class="about-image img-fluid" alt="">
+                                    <span class="badge">CTO</span>
+                                </div>
 
-                        <div class="team-info">
-                            <h4 class="mb-2">
-                                Candice
-                                <img src="images/verified.png" class="verified-image img-fluid" alt="">
-                            </h4>
+                                <div class="social-share">
+                                    <ul class="social-icon">
+                                        <li class="social-icon-item">
+                                            <a href="#" class="social-icon-link bi-linkedin"></a>
+                                        </li>
 
-                            <span class="badge">Storytelling</span>
-
-                            <span class="badge">Business</span>
-                        </div>
-
-                        <div class="social-share">
-                            <ul class="social-icon">
-                                <li class="social-icon-item">
-                                    <a href="#" class="social-icon-link bi-twitter"></a>
-                                </li>
-
-                                <li class="social-icon-item">
-                                    <a href="#" class="social-icon-link bi-facebook"></a>
-                                </li>
-                            </ul>
+                                        <li class="social-icon-item">
+                                            <a href="#" class="social-icon-link bi-whatsapp"></a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
+
 
             </div>
         </div>

@@ -1,13 +1,13 @@
 <main>
     <nav class="navbar navbar-expand-lg">
         <div class="container">
-        <a class="navbar-brand me-lg-5 me-0" href="?page=index">
-                <img src="images/logo.png" class="logo-image img-fluid" style="width: 150px" alt="templatemo pod talk" />
+            <a class="navbar-brand me-lg-5 me-0" href="?page=index">
+                <img src="images/logo.png" class="logo-image img-fluid" style="width: 120px" alt="templatemo pod talk" />
             </a>
 
             <form action="#" method="get" class="custom-form search-form flex-fill me-3" role="search">
                 <div class="input-group input-group-lg">
-                    <input name="search" type="search" class="form-control" id="search" placeholder="Search Podcast" aria-label="Search" />
+                    <input name="search" type="search" class="form-control" id="search" placeholder="Cari..." aria-label="Search" />
 
                     <button type="submit" class="form-control" id="submit">
                         <i class="bi-search"></i>
@@ -28,18 +28,18 @@
             <div class="row">
                 <div class="col-lg-12 col-12">
                     <div class="text-center mb-5 pb-2">
-                        <h1 class="text-white">Cari Jasa Servis Impian Kamu</h1>
+                        <h1 class="text-white">Cari Jasa Servis Untuk Kebutuhanmu!</h1>
 
                         <p class="text-white">
                             Dimanapun kamu berada, kami siap membantumu!
                         </p>
 
-                        <a href="#section_2" class="btn custom-btn smoothscroll mt-3">Start listening</a>
+                        <a href="?page=pesan" class="btn custom-btn smoothscroll mt-3">Mulai Pesan</a>
                     </div>
 
                     <div class="owl-carousel owl-theme">
                         <div class="owl-carousel-info-wrap item">
-                            <img src="images/worker/1.png" class="owl-carousel-image img-fluid" alt="" />
+                            <img style="height: 400px; object-fit: cover" src="images/worker/1.png" style="height: 400px; object-fit: cover" class="owl-carousel-image img-fluid" alt="" />
 
                             <div class="owl-carousel-info">
                                 <h4 class="mb-2">
@@ -66,7 +66,7 @@
                         </div>
 
                         <div class="owl-carousel-info-wrap item">
-                            <img src="images/worker/2.png" class="owl-carousel-image img-fluid" alt="" />
+                            <img style="height: 400px; object-fit: cover" src="images/worker/2.png" class="owl-carousel-image img-fluid" alt="" />
 
                             <div class="owl-carousel-info">
                                 <h4 class="mb-2">
@@ -97,7 +97,7 @@
                         </div>
 
                         <div class="owl-carousel-info-wrap item">
-                            <img src="images/worker/3.png" class="owl-carousel-image img-fluid" alt="" />
+                            <img style="height: 400px; object-fit: cover" src="images/worker/3.png" class="owl-carousel-image img-fluid" alt="" />
 
                             <div class="owl-carousel-info">
                                 <h4 class="mb-2">Taylor</h4>
@@ -125,7 +125,7 @@
                         </div>
 
                         <div class="owl-carousel-info-wrap item">
-                            <img src="images/worker/4.png" class="owl-carousel-image img-fluid" alt="" />
+                            <img style="height: 400px; object-fit: cover" src="images/worker/4.png" class="owl-carousel-image img-fluid" alt="" />
 
                             <div class="owl-carousel-info">
                                 <h4 class="mb-2">Nick</h4>
@@ -147,7 +147,7 @@
                         </div>
 
                         <div class="owl-carousel-info-wrap item">
-                            <img src="images/worker/5.png" class="owl-carousel-image img-fluid" alt="" />
+                            <img style="height: 400px; object-fit: cover" src="images/worker/5.png" class="owl-carousel-image img-fluid" alt="" />
 
                             <div class="owl-carousel-info">
                                 <h4 class="mb-2">
@@ -172,7 +172,7 @@
                         </div>
 
                         <div class="owl-carousel-info-wrap item">
-                            <img src="images/worker/6.png" class="owl-carousel-image img-fluid" alt="" />
+                            <img style="height: 400px; object-fit: cover" src="images/worker/6.png" class="owl-carousel-image img-fluid" alt="" />
 
                             <div class="owl-carousel-info">
                                 <h4 class="mb-2">Chan</h4>
@@ -214,10 +214,10 @@
                                 <div class="section-overlay"></div>
                                 <a href="detail-page.html" class="custom-block-image-wrap">
                                     <img src="images/trending1.jpg" style="width: 120px;" alt="" />
-
-                                    <a href="#" class="custom-block-icon">
+                                    <!-- 
+                                    <a href="#" class="custom-bflock-icon">
                                         <i class="bi-play-fill"></i>
-                                    </a>
+                                    </a> -->
                                 </a>
                             </div>
 
@@ -234,17 +234,18 @@
 
                             </div>
 
-                            <h5 class="mb-2">
-                                <a href="detail-page.html"> Jasa Bangunan </a>
+                            <h5>
+                                <a href="detail-page.html"> IKEA </a>
                             </h5>
+                            <h6 style="font-weight: 500; font-size:20px;">Jasa Bangunan</h6>
 
                             <div class="profile-block d-flex">
-                                <img src="images/profile/woman-posing-black-dress-medium-shot.jpg" class="profile-block-image img-fluid" alt="" />
+                                <img src="images/founder/1.png" class="profile-block-image img-fluid" alt="" />
 
                                 <p>
-                                    Elsa
+                                    Ingvard
                                     <img src="images/verified.png" class="verified-image img-fluid" alt="" />
-                                    <strong>Influencer</strong>
+                                    <strong>Founder</strong>
                                 </p>
                             </div>
 
@@ -264,18 +265,14 @@
                         </div>
                     </div>
                 </div>
-
                 <div class="col-lg-6 col-12 mb-4 mb-lg-0">
                     <div class="custom-block d-flex">
                         <div class="">
                             <div class="custom-block-icon-wrap">
                                 <div class="section-overlay"></div>
                                 <a href="detail-page.html" class="custom-block-image-wrap">
-                                    <img src="images/trending1.jpg" style="width: 120px;" alt="" />
+                                    <img src="images/industry/staycool.png" style="width: 120px; height: 95px;" alt="" />
 
-                                    <a href="#" class="custom-block-icon">
-                                        <i class="bi-play-fill"></i>
-                                    </a>
                                 </a>
                             </div>
 
@@ -292,17 +289,18 @@
 
                             </div>
 
-                            <h5 class="mb-2">
-                                <a href="detail-page.html"> Jasa Bangunan </a>
+                            <h5>
+                                <a href="detail-page.html"> Staycool ID </a>
                             </h5>
+                            <h6 style="font-weight: 500; font-size:20px;">Jasa Servis AC</h6>
 
                             <div class="profile-block d-flex">
-                                <img src="images/profile/woman-posing-black-dress-medium-shot.jpg" class="profile-block-image img-fluid" alt="" />
+                                <img src="images/founder/2.png" class="profile-block-image img-fluid" alt="" />
 
                                 <p>
-                                    Elsa
+                                    Yuda Prawirwa
                                     <img src="images/verified.png" class="verified-image img-fluid" alt="" />
-                                    <strong>Influencer</strong>
+                                    <strong>Founder</strong>
                                 </p>
                             </div>
 
@@ -322,6 +320,8 @@
                         </div>
                     </div>
                 </div>
+
+
             </div>
         </div>
     </section>
@@ -375,7 +375,7 @@
 
                         <div class="custom-block-info custom-block-overlay-info">
                             <h5 class="mb-1">
-                                <a href="listing-page.html"> EO Pernikahan </a>
+                                <a href="listing-page.html"> Guru Olahraga </a>
                             </h5>
 
                             <p class="badge mb-0">60+ Pencarian</p>
@@ -407,126 +407,147 @@
             <div class="row">
                 <div class="col-lg-12 col-12">
                     <div class="section-title-wrap mb-5">
-                        <h4 class="section-title">Jenis Lainnya</h4>
+                        <h4 class="section-title">Industri Jasa Lainnya</h4>
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-12 mb-4 mb-lg-0">
-                    <div class="custom-block custom-block-full">
-                        <div class="custom-block-image-wrap">
-                            <a href="detail-page.html">
-                                <img src="images/jenis1.png" class="custom-block-image img-fluid" alt="" />
-                            </a>
-                        </div>
-
-                        <div class="custom-block-info">
-                            <h5 class="mb-2">
-                                <a href="detail-page.html"> Mekanik </a>
-                            </h5>
-
-                            <div class="profile-block d-flex">
-                                <img src="images/profile/woman-posing-black-dress-medium-shot.jpg" class="profile-block-image img-fluid" alt="" />
-
-                                <p>
-                                    Elsa
-                                    <strong>Influencer</strong>
-                                </p>
+                <div class="row gy-3">
+                    <div class="col-lg-4 col-12 mb-4 mb-lg-0">
+                        <div class="custom-block custom-block-full">
+                            <div class="custom-block-image-wrap">
+                                <a href="detail-page.html">
+                                    <img src="images/industry/biznet.webp" style="width:100%;object-fit: contain;" class="custom-block-image img-fluid" alt="" />
+                                </a>
                             </div>
 
-                            <p class="mb-0">Kamu Kesulitan Benerin Motor? Serahkan dengan Kami!</p>
+                            <div class="custom-block-info">
+                                <h5 class="mb-2">
+                                    <a href="detail-page.html"> Jasa Pasang Wifi </a>
+                                </h5>
 
 
-                        </div>
+                                <p class="mb-0">Kamu Kesulitan Benerin Motor? Serahkan dengan Kami!</p>
 
-                        <div class="social-share d-flex flex-column ms-auto">
-                            <a href="#" class="badge ms-auto">
-                                <i class="bi-heart"></i>
-                            </a>
 
-                            <a href="#" class="badge ms-auto">
-                                <i class="bi-bookmark"></i>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-12 mb-4 mb-lg-0">
-                    <div class="custom-block custom-block-full">
-                        <div class="custom-block-image-wrap">
-                            <a href="detail-page.html">
-                                <img src="images/jenis1.png" class="custom-block-image img-fluid" alt="" />
-                            </a>
-                        </div>
-
-                        <div class="custom-block-info">
-                            <h5 class="mb-2">
-                                <a href="detail-page.html"> Mekanik </a>
-                            </h5>
-
-                            <div class="profile-block d-flex">
-                                <img src="images/profile/woman-posing-black-dress-medium-shot.jpg" class="profile-block-image img-fluid" alt="" />
-
-                                <p>
-                                    Elsa
-                                    <strong>Influencer</strong>
-                                </p>
                             </div>
 
-                            <p class="mb-0">Kamu Kesulitan Benerin Motor? Serahkan dengan Kami!</p>
 
-
-                        </div>
-
-                        <div class="social-share d-flex flex-column ms-auto">
-                            <a href="#" class="badge ms-auto">
-                                <i class="bi-heart"></i>
-                            </a>
-
-                            <a href="#" class="badge ms-auto">
-                                <i class="bi-bookmark"></i>
-                            </a>
                         </div>
                     </div>
-                </div>
-                <div class="col-lg-4 col-12 mb-4 mb-lg-0">
-                    <div class="custom-block custom-block-full">
-                        <div class="custom-block-image-wrap">
-                            <a href="detail-page.html">
-                                <img src="images/jenis1.png" class="custom-block-image img-fluid" alt="" />
-                            </a>
-                        </div>
-
-                        <div class="custom-block-info">
-                            <h5 class="mb-2">
-                                <a href="detail-page.html"> Mekanik </a>
-                            </h5>
-
-                            <div class="profile-block d-flex">
-                                <img src="images/profile/woman-posing-black-dress-medium-shot.jpg" class="profile-block-image img-fluid" alt="" />
-
-                                <p>
-                                    Elsa
-                                    <strong>Influencer</strong>
-                                </p>
+                    <div class="col-lg-4 col-12 mb-4 mb-lg-0">
+                        <div class="custom-block custom-block-full">
+                            <div class="custom-block-image-wrap">
+                                <a href="detail-page.html">
+                                    <img src="images/industry/griffin.jpg" style="width:100%;object-fit: contain;" class="custom-block-image img-fluid" alt="" />
+                                </a>
                             </div>
 
-                            <p class="mb-0">Kamu Kesulitan Benerin Motor? Serahkan dengan Kami!</p>
+                            <div class="custom-block-info">
+                                <h5 class="mb-2">
+                                    <a href="detail-page.html"> Jasa Pasang Wifi </a>
+                                </h5>
+
+
+                                <p class="mb-0">Kamu Kesulitan Benerin Motor? Serahkan dengan Kami!</p>
+
+
+                            </div>
 
 
                         </div>
+                    </div>
+                    <div class="col-lg-4 col-12 mb-4 mb-lg-0">
+                        <div class="custom-block custom-block-full">
+                            <div class="custom-block-image-wrap">
+                                <a href="detail-page.html">
+                                    <img src="images/industry/jogja.jpg" style="width:100%;object-fit: contain;" class="custom-block-image img-fluid" alt="" />
+                                </a>
+                            </div>
 
-                        <div class="social-share d-flex flex-column ms-auto">
-                            <a href="#" class="badge ms-auto">
-                                <i class="bi-heart"></i>
-                            </a>
+                            <div class="custom-block-info">
+                                <h5 class="mb-2">
+                                    <a href="detail-page.html">Servis Kunci</a>
+                                </h5>
 
-                            <a href="#" class="badge ms-auto">
-                                <i class="bi-bookmark"></i>
-                            </a>
+
+                                <p class="mb-0">Kamu Kesulitan Benerin Motor? Serahkan dengan Kami!</p>
+
+
+                            </div>
+
+
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-12 mb-4 mb-lg-0">
+                        <div class="custom-block custom-block-full">
+                            <div class="custom-block-image-wrap">
+                                <a href="detail-page.html">
+                                    <img src="images/industry/biznet.webp" style="width:100%;object-fit: contain;" class="custom-block-image img-fluid" alt="" />
+                                </a>
+                            </div>
+
+                            <div class="custom-block-info">
+                                <h5 class="mb-2">
+                                    <a href="detail-page.html"> Jasa Pasang Wifi </a>
+                                </h5>
+
+
+                                <p class="mb-0">Kamu Kesulitan Benerin Motor? Serahkan dengan Kami!</p>
+
+
+                            </div>
+
+
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-12 mb-4 mb-lg-0">
+                        <div class="custom-block custom-block-full">
+                            <div class="custom-block-image-wrap">
+                                <a href="detail-page.html">
+                                    <img src="images/industry/air.png" style="width:100%;object-fit: contain;" class="custom-block-image img-fluid" alt="" />
+                                </a>
+                            </div>
+
+                            <div class="custom-block-info">
+                                <h5 class="mb-2">
+                                    <a href="detail-page.html"> Jasa Pasang Wifi </a>
+                                </h5>
+
+
+                                <p class="mb-0">Kamu Kesulitan Benerin Motor? Serahkan dengan Kami!</p>
+
+
+                            </div>
+
+
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-12 mb-4 mb-lg-0">
+                        <div class="custom-block custom-block-full">
+                            <div class="custom-block-image-wrap">
+                                <a href="detail-page.html">
+                                    <img src="images/industry/biznet.webp" style="width:100%;object-fit: contain;" class="custom-block-image img-fluid" alt="" />
+                                </a>
+                            </div>
+
+                            <div class="custom-block-info">
+                                <h5 class="mb-2">
+                                    <a href="detail-page.html"> Jasa Pasang Wifi </a>
+                                </h5>
+
+
+                                <p class="mb-0">Kamu Kesulitan Benerin Motor? Serahkan dengan Kami!</p>
+
+
+                            </div>
+
+
                         </div>
                     </div>
                 </div>
 
-               
+
+
             </div>
         </div>
     </section>

@@ -10,6 +10,7 @@ if (isset($_GET['page'])) {
             break;
         case 'pesan':
             include 'pages/pesan/pesan.php';
+            break;
         case 'pengaduan':
             include 'pages/pengaduan/pengaduan.php';
 

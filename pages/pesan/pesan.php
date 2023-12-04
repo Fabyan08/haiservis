@@ -2,13 +2,13 @@
 
     <nav class="navbar navbar-expand-lg">
         <div class="container">
-        <a class="navbar-brand me-lg-5 me-0" href="?page=index">
-                <img src="images/logo.png" style="width: 150px;" class="logo-image img-fluid" alt="templatemo pod talk">
+            <a class="navbar-brand me-lg-5 me-0" href="?page=index">
+                <img src="images/logo.png" style="width: 120px;" class="logo-image img-fluid" alt="templatemo pod talk">
             </a>
 
             <form action="#" method="get" class="custom-form search-form flex-fill me-3" role="search">
                 <div class="input-group input-group-lg">
-                    <input name="search" type="search" class="form-control" id="search" placeholder="Search Podcast" aria-label="Search">
+                    <input name="search" type="search" class="form-control" id="search" placeholder="Cari..." aria-label="Search" />
 
                     <button type="submit" class="form-control" id="submit">
                         <i class="bi-search"></i>
@@ -38,7 +38,75 @@
     </header>
 
 
-    <section class="latest-podcast-section section-padding" id="section_2">
+    <!-- <div class="d-flex"> -->
+
+    <section class="latest-podcast-section section-padding d-flex" style="margin-top: -100px;" id="section_2">
+        <div class="style col-lg-2 gx-5 row" style="margin-left: 10px;">
+            <form action="">
+                <h5>Filter</h5>
+                <hr>
+                <h6 style="font-weight:500; font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif">Urutkan</h6>
+                <select value="" class="form-control">
+                    <option value="">Harga Terendah</option>
+                    <option value="">Harga Terendah</option>
+                    <option value="">Rating Terendah</option>
+                    <option value="">Rating Terendah</option>
+                </select>
+                <hr>
+                <h6 style="font-weight:500; font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif">Lokasi</h6>
+
+                <input type="text" class="form-control" placeholder="Lokasi">
+                <!-- <select name="" id="" class="form-control">
+                    <option value="">--Lokasi--</option>
+                    <option value="">Jakarta</option>
+                    <option value="">Surabaya</option>
+                    <option value="">Malang</option>
+                    <option value="">Banten</option>
+                </select> -->
+                <button style="margin-top: 5px;" class="btn btn-block btn-primary">Apply</button>
+
+                <hr>
+
+                <div class="" style="margin-top: 20px;">
+                    <h6 style="font-weight:500; font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif">Rentang Harga</h6>
+                    <div class="filter-content collapse show" id="collapse_3" style="margin-top: 10px;">
+                        <div class="card-body">
+                            <!-- <input type="range" class="custom-range" min="0" max="100" name=""> -->
+                            <div class="form-row">
+                                <div class="form-group col-md-6">
+                                    <label>Minimal</label>
+                                    <input class="form-control" placeholder="Rp " type="number">
+                                </div>
+                                <div class="form-group text-right col-md-6">
+                                    <label>Maksimal</label>
+                                    <input class="form-control" placeholder="Rp" type="number">
+                                </div>
+                            </div> <!-- form-row.// -->
+                            <button style="margin-top: 5px;" class="btn btn-block btn-primary">Apply</button>
+                        </div><!-- card-body.// -->
+                    </div>
+                </div>
+                <hr>
+                <div class="row">
+                    <h6 style="font-weight:500; font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif">Rating</h6>
+
+                    <div class="col">
+                        <input type="checkbox">
+                        <i class="bi-star">2</i>
+                    </div>
+                    <div class="col">
+                        <input type="checkbox">
+                        <i class="bi-star">3</i>
+                    </div>
+                    <div class="col">
+                        <input type="checkbox">
+                        <i class="bi-star">5</i>
+                    </div>
+                    <button style="margin-top: 5px;" class="btn btn-block btn-primary">Apply</button>
+
+                </div>
+            </form>
+        </div>
         <div class="container">
             <div class="row justify-content-center">
 
@@ -59,7 +127,7 @@
                     </form>
 
                 </div>
-                <div class="flex justify-content-start">
+                <!-- <div class="flex justify-content-start">
                     <div class="col-lg-5">
                         <select name="" id="" class="form-control">
                             <option value="">Jakarta</option>
@@ -69,7 +137,7 @@
 
                         </select>
                     </div>
-                </div>
+                </div> -->
                 <div class="row gy-3">
                     <div class="col-lg-6 col-12 mb-4 mb-lg-0">
                         <div class="custom-block d-flex">
@@ -417,179 +485,8 @@
             </div>
         </div>
     </section>
+    <!-- </div> -->
 
 
-    <!-- <section class="trending-podcast-section section-padding pt-0">
-        <div class="container">
-            <div class="row">
 
-                <div class="col-lg-12 col-12">
-                    <div class="section-title-wrap mb-5">
-                        <h4 class="section-title">Trending episodes</h4>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-12 mb-4 mb-lg-0">
-                    <div class="custom-block custom-block-full">
-                        <div class="custom-block-image-wrap">
-                            <a href="detail-page.html">
-                                <img src="images/podcast/27376480_7326766.jpg" class="custom-block-image img-fluid" alt="">
-                            </a>
-                        </div>
-
-                        <div class="custom-block-info">
-                            <h5 class="mb-2">
-                                <a href="detail-page.html">
-                                    Vintage Show
-                                </a>
-                            </h5>
-
-                            <div class="profile-block d-flex">
-                                <img src="images/profile/woman-posing-black-dress-medium-shot.jpg" class="profile-block-image img-fluid" alt="">
-
-                                <p>Elsa
-                                    <strong>Influencer</strong>
-                                </p>
-                            </div>
-
-                            <p class="mb-0">Lorem Ipsum dolor sit amet consectetur</p>
-
-                            <div class="custom-block-bottom d-flex justify-content-between mt-3">
-                                <a href="#" class="bi-headphones me-1">
-                                    <span>100k</span>
-                                </a>
-
-                                <a href="#" class="bi-heart me-1">
-                                    <span>2.5k</span>
-                                </a>
-
-                                <a href="#" class="bi-chat me-1">
-                                    <span>924k</span>
-                                </a>
-                            </div>
-                        </div>
-
-                        <div class="social-share d-flex flex-column ms-auto">
-                            <a href="#" class="badge ms-auto">
-                                <i class="bi-heart"></i>
-                            </a>
-
-                            <a href="#" class="badge ms-auto">
-                                <i class="bi-bookmark"></i>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-12 mb-4 mb-lg-0">
-                    <div class="custom-block custom-block-full">
-                        <div class="custom-block-image-wrap">
-                            <a href="detail-page.html">
-                                <img src="images/podcast/27670664_7369753.jpg" class="custom-block-image img-fluid" alt="">
-                            </a>
-                        </div>
-
-                        <div class="custom-block-info">
-                            <h5 class="mb-2">
-                                <a href="detail-page.html">
-                                    Vintage Show
-                                </a>
-                            </h5>
-
-                            <div class="profile-block d-flex">
-                                <img src="images/profile/cute-smiling-woman-outdoor-portrait.jpg" class="profile-block-image img-fluid" alt="">
-
-                                <p>
-                                    Taylor
-                                    <img src="images/verified.png" class="verified-image img-fluid" alt="">
-                                    <strong>Creator</strong>
-                                </p>
-                            </div>
-
-                            <p class="mb-0">Lorem Ipsum dolor sit amet consectetur</p>
-
-                            <div class="custom-block-bottom d-flex justify-content-between mt-3">
-                                <a href="#" class="bi-headphones me-1">
-                                    <span>100k</span>
-                                </a>
-
-                                <a href="#" class="bi-heart me-1">
-                                    <span>2.5k</span>
-                                </a>
-
-                                <a href="#" class="bi-chat me-1">
-                                    <span>924k</span>
-                                </a>
-                            </div>
-                        </div>
-
-                        <div class="social-share d-flex flex-column ms-auto">
-                            <a href="#" class="badge ms-auto">
-                                <i class="bi-heart"></i>
-                            </a>
-
-                            <a href="#" class="badge ms-auto">
-                                <i class="bi-bookmark"></i>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-12">
-                    <div class="custom-block custom-block-full">
-                        <div class="custom-block-image-wrap">
-                            <a href="detail-page.html">
-                                <img src="images/podcast/12577967_02.jpg" class="custom-block-image img-fluid" alt="">
-                            </a>
-                        </div>
-
-                        <div class="custom-block-info">
-                            <h5 class="mb-2">
-                                <a href="detail-page.html">
-                                    Daily Talk
-                                </a>
-                            </h5>
-
-                            <div class="profile-block d-flex">
-                                <img src="images/profile/handsome-asian-man-listening-music-through-headphones.jpg" class="profile-block-image img-fluid" alt="">
-
-                                <p>
-                                    William
-                                    <img src="images/verified.png" class="verified-image img-fluid" alt="">
-                                    <strong>Vlogger</strong>
-                                </p>
-                            </div>
-
-                            <p class="mb-0">Lorem Ipsum dolor sit amet consectetur</p>
-
-                            <div class="custom-block-bottom d-flex justify-content-between mt-3">
-                                <a href="#" class="bi-headphones me-1">
-                                    <span>100k</span>
-                                </a>
-
-                                <a href="#" class="bi-heart me-1">
-                                    <span>2.5k</span>
-                                </a>
-
-                                <a href="#" class="bi-chat me-1">
-                                    <span>924k</span>
-                                </a>
-                            </div>
-                        </div>
-
-                        <div class="social-share d-flex flex-column ms-auto">
-                            <a href="#" class="badge ms-auto">
-                                <i class="bi-heart"></i>
-                            </a>
-
-                            <a href="#" class="badge ms-auto">
-                                <i class="bi-bookmark"></i>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-        </div>
-    </section> -->
 </main>

@@ -8,7 +8,7 @@
   <meta name="description" content="" />
   <meta name="author" content="" />
 
-  <title>Pod Talk - Free Bootstrap 5 CSS Template</title>
+  <title>Haiservis | Jasa Servis Terbaik</title>
 
   <!-- CSS FILES -->
   <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -27,13 +27,8 @@
 
   <link href="css/templatemo-pod-talk.css" rel="stylesheet" />
 
-  <!--
+  <link rel="icon" href="images/icon/logo.svg">
 
-TemplateMo 584 Pod Talk
-
-https://templatemo.com/tm-584-pod-talk
-
--->
 </head>
 
 <body>

@@ -8,7 +8,7 @@
 
             <form action="#" method="get" class="custom-form search-form flex-fill me-3" role="search">
                 <div class="input-group input-group-lg">
-                    <input name="search" type="search" class="form-control" id="search" placeholder="Search Podcast" aria-label="Search">
+                    <input name="search" type="search" class="form-control" id="search" placeholder="Cari..." aria-label="Search" />
 
                     <button type="submit" class="form-control" id="submit">
                         <i class="bi-search"></i>
@@ -31,7 +31,7 @@
 
                 <div class="col-lg-12 col-12 text-center">
 
-                    <h2 class="mb-0">Contact Page</h2>
+                    <h2 class="mb-0">Kontak & Pengaduan</h2>
                 </div>
 
             </div>
@@ -45,21 +45,21 @@
 
                 <div class="col-lg-5 col-12 pe-lg-5">
                     <div class="contact-info">
-                        <h3 class="mb-4">We love to help you. Get in touch</h3>
+                        <h3 class="mb-4">Komunikasikan Kendalamu</h3>
 
                         <p class="d-flex border-bottom pb-3 mb-4">
                             <strong class="d-inline me-4">Phone:</strong>
-                            <span>010-020-0340</span>
+                            <span>0895 1234 7689</span>
                         </p>
 
                         <p class="d-flex border-bottom pb-3 mb-4">
                             <strong class="d-inline me-4">Email:</strong>
-                            <a href="#">inquiry@pod.co</a>
+                            <a href="#">haiservis@gmail.com</a>
                         </p>
 
                         <p class="d-flex">
                             <strong class="d-inline me-4">Location:</strong>
-                            <span>1355 Market Street, Downtown San Francisco, California</span>
+                            <span>Jalan Hayam Wuruk, Kota Yogyakarta</span>
                         </p>
                     </div>
                 </div>
@@ -78,7 +78,7 @@
 
                 <div class="col-lg-8 col-12 mx-auto">
                     <div class="section-title-wrap mb-5">
-                        <h4 class="section-title">You know, Contact Form</h4>
+                        <h4 class="section-title">Tulis di Sini!</h4>
                     </div>
 
                     <form action="#" method="post" class="custom-form contact-form" role="form">
@@ -87,7 +87,7 @@
                                 <div class="form-floating">
                                     <input type="text" name="full-name" id="full-name" class="form-control" placeholder="Full Name" required="">
 
-                                    <label for="floatingInput">Full Name</label>
+                                    <label for="floatingInput">Nama Kamu</label>
                                 </div>
                             </div>
 
@@ -95,7 +95,7 @@
                                 <div class="form-floating">
                                     <input type="email" name="email" id="email" pattern="[^ @]*@[^ @]*" class="form-control" placeholder="Email address" required="">
 
-                                    <label for="floatingInput">Email address</label>
+                                    <label for="floatingInput">Email Kamu</label>
                                 </div>
                             </div>
 
@@ -103,18 +103,18 @@
                                 <div class="form-floating">
                                     <input type="text" name="company" id="name" class="form-control" placeholder="Name" required="">
 
-                                    <label for="floatingInput">Company</label>
+                                    <label for="floatingInput">Institusi</label>
                                 </div>
 
                                 <div class="form-floating">
                                     <textarea class="form-control" id="message" name="message" placeholder="Describe message here"></textarea>
 
-                                    <label for="floatingTextarea">Describe message here</label>
+                                    <label for="floatingTextarea">Tulis Pesan Kamu....</label>
                                 </div>
                             </div>
 
                             <div class="col-lg-4 col-12 ms-auto">
-                                <button type="submit" class="form-control">Submit</button>
+                                <button type="submit" class="form-control">Kirim</button>
                             </div>
 
                         </div>
